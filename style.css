@@ -5,7 +5,7 @@ body {
 .topBox {
     text-align: center;
     position: relative;
-    left: 350px;
+    left: 525px;
     height: 160px;
     width: 400px;
     background: white;
@@ -111,26 +111,26 @@ body {
     width: 345px;
     height: 285px;
     line-height: 2.3;
-    position: relative;
-    bottom: 200px;
+    /* position: relative;
+    bottom: 200px; */
     
 }
 
 .otherItems {
     background-color: rgb(225, 225, 91);
-    width: 660px;
+    width: 650px;
     height: 285px;
-    position: relative;
+    /* position: relative;
     bottom: 368px;
-    left: 368px;
+    left: 368px; */
     padding: 25px;
-    
     line-height: 2.3;
     
 }
 
 .fixIt2 {
-    margin-left: 285px;
+    text-align: center;
+    margin-left: 40px;
 }
 
 .te {
